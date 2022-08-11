@@ -27,6 +27,12 @@ then the K will automatically stop at the 20% length of the feature set. Such a 
 ![Recursive Feature](https://user-images.githubusercontent.com/47016879/184219853-339fa891-3707-41ee-97ce-7d5cebce0a03.png)
 
 
+Final Feature Subsets:
+
+![final_subsets](https://user-images.githubusercontent.com/47016879/184220402-6f6d8a78-ec7b-4c59-96e2-56a535536213.png)
+
+
+
 Framework of mRMR+Forward Selection
 
 ![Experiment_Flowchart](https://user-images.githubusercontent.com/47016879/184218429-47674701-2d70-483d-9a56-8b304e52bd84.png)
